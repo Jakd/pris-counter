@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PrisCounter</string>
+    <string name="statistikk_snusbruk">Statistikk snusbruk</string>
+    <string name="priser_per_eske">Priser tatt av denne esken:</string>
+    <string name="antall_esker">Antall esker:</string>
+    <string name="gjennomsnitt_ant_esker">Gjennomsnitt priser per eske:</string>
+    <string name="pris">+pris</string>
+    <string name="eske">+eske</string>
+
+</resources>
